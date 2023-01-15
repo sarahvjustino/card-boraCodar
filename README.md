@@ -9,7 +9,7 @@
 
 ![screen-gif](./assets/readme.gif)
 
-Você pode visualizar projeto completo através [DESSE LINK]()
+Você pode visualizar projeto completo através [DESSE LINK](https://sarahvjustino.github.io/card-boraCodar/)
 
 ## 🚀 Tecnologias
 
